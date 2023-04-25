@@ -1,0 +1,21 @@
+* TODO Write an abstract for using the package manager for creating repoducible environments for scientific computing
+# latex template route
+- [ ] https://www.overleaf.com/project/6372c2987109dd7197558cc7
+
+# rmarkdown route
+
+- [ ] https://rstudio.github.io/distill/
+- [ ] https://bookdown.org/yihui/rmarkdown-cookbook/multiple-authors.html
+
+## tools and docs
+
+- Rmarkdown
+
+https://github.com/r-lib/actions
+
+https://www.tidyverse.org/blog/2022/06/actions-2-0-0/
+
+- LaTeX
+
+https://www.tidyverse.org/blog/2022/06/actions-2-0-0/
+https://resulumit.com/teaching/rmd_workshop.html#1
